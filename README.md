@@ -1,3 +1,6 @@
+Demo Test Framework to showcase Pytest knowlwdge: Rashmi shahoo Test Deliverable's :
+
+This project showcases test case scenarios for a webpage using Python and Pytest
 
 ----
 ## Project structure
